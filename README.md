@@ -1,9 +1,8 @@
-Hi there 👋
+Hi..👋 I'm Istiak
 
-<!--
-**IstiakAlin/IstiakAlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just like Sakura flower, I am learning to bloom even when I know I will fall soon—because beauty lies not in how long we last, but in how deeply we leave our presence.
+https://wallpapercave.com/w/uwp4709187
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
