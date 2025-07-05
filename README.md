@@ -6,7 +6,7 @@
 As a learner of computer science and engineering at Brac University School of Data and Sciences, I am trying to learn with a focus on problem-solving and I am an enthusiast in web development, Python, machine learning and cyber security. Experienced in computer vision through research and projects. In the field of cybersecurity, I am gaining knowledge in penetration, DDoS attacks and Nmap.
 
 # 💫 About Me:
-🔭 I’m currently working on a pattern recognition project. <br>👯 I’m looking to collaborate on open source projects.<br>🌱 I’m currently learning about cyber security and ethical hacking. <br>⚡ Fun fact about me I love to Cook. 
+🔭 I’m currently working on a pattern recognition projects. <br>👯 I’m looking to collaborate on open source projects.<br>🌱 I’m currently learning about cyber security and ethical hacking. <br>⚡ Fun fact about me I love to Cook. 
 
 
 # 🌐 Socials:
